@@ -1,8 +1,10 @@
 hello world
 
-<<<<<<< HEAD
-=======
+<<<<<<<<< Temporary merge branch 1
+this is my first task
+=========
+this is my first task
 this is your lose
 
 selamat pagi
->>>>>>> origin/master
+>>>>>>>>> Temporary merge branch 2
